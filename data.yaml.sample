@@ -1,0 +1,13 @@
+#parameter for production
+membersprod: [xxxx,yyyyyy] 
+tokenprod: xxxxxxxx
+idlistprod: yyyyyyy
+keyprod: zzzzzzzzzzz
+#parameter for development
+membersdev: [xxxx, yyyy]
+idlistdev: xxxxxxxxxx
+keydev: yyyyyyyyyyyyy
+tokendev: xxxxxx
+#generic
+dayafter: 4
+cardname: [カードタイトル]
